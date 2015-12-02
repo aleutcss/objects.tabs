@@ -1,5 +1,5 @@
 {
-  "name": "aleut-tabs",
+  "name": "@aleut/aleut-tabs",
   "version": "0.3.0",
   "description": "A simple tabs object in the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_objects.tabs.scss",
