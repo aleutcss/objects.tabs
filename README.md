@@ -22,6 +22,8 @@ Basic usage of the tabs object uses the required class:
 
 ```
 
+![Example of o-tabs](https://github.com/aleutcss/Aleut/tree/gh-pages/public/img/o-tabs.png)
+
 The only valid children of the `.o-tabs` node are `.o-tabs__item`s.
 
 
