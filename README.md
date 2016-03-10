@@ -6,7 +6,8 @@ The `tabs` object is a simple abstraction for force a series of elements
 ## Install using npm:
 
 ```ssh
-    $ npm install --save-dev @aleut/objects.tabs
+    $ npm install --save-dev aleut.objects.tabs
+
 ```
 
 ## Usage
